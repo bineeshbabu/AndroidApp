@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\37b8fe73b7582863e9384b462781f3fa9a07c734\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_25066ea91e642067515b5958a57311aab0791d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\4a6238a7788a8055145079f8ff3d3f9e948ca318\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_1771250deb724e2e4b67067761e6e0427da17756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.gradle\caches\modules-2\files-2.1\com.esotericsoftware.minlog\minlog\1.2\59bfcd171d82f9981a5e242b9e840191f650e209\minlog-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59bfcd171d82f9981a5e242b9e840191f650e209">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\minlog-1.2_72a2a16f6ee8f62ef8bfc25228cb446939044bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.gradle\caches\modules-2\files-2.1\com.esotericsoftware.kryo\kryo\2.24.0\c6b206e80cfd97e66a1364003724491c757b92f\kryo-2.24.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6b206e80cfd97e66a1364003724491c757b92f">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\kryo-2.24.0_3d26169c8fef5c38a1397245de0be5ddfa0cfa7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb42303e14282837b0a322af8b389ab5a8ada665">
+        <dex dex="E:\Android App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6bfc5cd77b6c71f34f46c61953357f7212236f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\6e501cd25d93c3008f194cf205e23452e2912032\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_cb21d6b53579b6b60d99f4a7fc42fb27b53fb7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_34fba148cba0f62e4ea15d93de2f8f129308ba63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\ea33febcfd0a9b0ffa9c368486dbb94e969d92ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_d3d952d098fc5d163f46ad1c6e73ceb7a7faa37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\461d94362fe53278caddd24982b8c253f7baeb16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_887605f8b21e416b7d615400f9fa123ce91f7996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\b9f487fc08aa0eff46347571654006cf30ba00c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_cb4165ee2913fee2468d359d7183095af3437767.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android App\app\libs\android-async-http-1.4.4 .jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="E:\Android App\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4 _1e963465a039acbe2789ed4c5021064d1ef87a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\d423cb8f541d3c3a95de2b8aae92f771269c7cb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_d678df441b39a71e0e47f9073da7c4f819c54a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\aee4f135277d7040dfa55d84f534be604d4b728b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="773103b47908c3026873309dd5d968b7fc6556eb">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_951604df046c0580d78b69782a90184f63ef60ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android App\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\volley_e1ed58f483ef700da01329637176e56172f617ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Android App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aff7952628df79a10d18f5e943ebbe5cd8b49bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android App\app\libs\android-async-http-1.4.4 .jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4 _1e963465a039acbe2789ed4c5021064d1ef87a4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android App\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\Android App\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_e1ed58f483ef700da01329637176e56172f617ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\da8d4e4821693fee586188d3bd3abf43a6ec8f5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_3ee96d8442753ad6995245c611791daecf6f9ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.gradle\caches\modules-2\files-2.1\org.objenesis\objenesis\2.1\87c0ea803b69252868d09308b4618f766f135a96\objenesis-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\objenesis-2.1_c15483888ccbf2e3a77b72be563ac78e4f6a0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\29ae37eee4a650cb709220ce7cf79631debe54dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_eb126d8c16c94374cdd7ce810564e02ea38dc22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\e3514318c43017da5a7f17c0573c0fbf94f0cd05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="414b14b5ce5d2dfded9de1ed81723436534e584f">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\classes_34a6f9f251c318d6146f0d3c794c342573743a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bineeshpbabu\.android\build-cache\4a6238a7788a8055145079f8ff3d3f9e948ca318\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Android App\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ea5bd0e24cf1d8aee73da3afe7e38840819a624a.jar" />
+    </item>
+
+</items>
